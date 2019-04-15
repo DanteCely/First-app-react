@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "task 1",
+            "responsible": "Marvin Cely",
+            "description": "lore itsum 1",
+            "priority": "medium"
+        },
+        {
+            "title": "task 2",
+            "responsible": "Dayra Cely",
+            "description": "lore itsum 2",
+            "priority": "low"
+        },
+        {
+            "title": "task 3",
+            "responsible": "Adriana Díaz",
+            "description": "lore itsum 3",
+            "priority": "high"
+        },
+        {
+            "title": "task 4",
+            "responsible": "Nina Milú",
+            "description": "Hacer pereza",
+            "priority": "medium"
+        }
+    ]
+}
